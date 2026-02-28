@@ -82,4 +82,4 @@ restart             – Restart the bot
 
 ---
 
-<p align="center"><b> (Hi Welcome to Thalapathy bot) </b></p>
+<p align="center"><b> (Hi Welcome to Thalapathy Bot) </b></p>
